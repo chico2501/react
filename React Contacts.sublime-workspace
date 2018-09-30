@@ -1,0 +1,994 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"fe",
+				"flex\tdisplay"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"conta",
+				"contact-list"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"flex-",
+				"flex-start\talign-items"
+			],
+			[
+				"let",
+				"left\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"ce",
+				"center\ttext-align"
+			],
+			[
+				"cent",
+				"center\tjustify-content"
+			],
+			[
+				"in",
+				"initial\tbackground-attachment"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"lis",
+				"list-style-position\tproperty"
+			],
+			[
+				"sq",
+				"sqlp2"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"color",
+				"color\tproperty"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"htm",
+				"html_entity_decode"
+			],
+			[
+				"reg",
+				"reg2"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"rgab",
+				"rgba()\tbackground"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"lancem",
+				"lancamentos"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"po",
+				"position\tproperty"
+			],
+			[
+				"fl",
+				"flex\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"ta",
+				"target\tAttr"
+			],
+			[
+				"flex",
+				"flex-end\tjustify-content"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"link",
+				"linkcanonical"
+			],
+			[
+				"galeria",
+				"galeria_fotos"
+			],
+			[
+				"status",
+				"status_pagamento"
+			],
+			[
+				"onky",
+				"onkeyup\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"nome",
+				"nomecliente"
+			],
+			[
+				"email",
+				"email_de_envio"
+			],
+			[
+				"htmlspecial",
+				"htmlspecialchars_decode"
+			],
+			[
+				"sql",
+				"sqlp"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ab",
+				"absolute\tposition"
+			],
+			[
+				"rgba",
+				"rgba()\tbackground"
+			],
+			[
+				"col",
+				"column\tflex-direction"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"margi-",
+				"margin-top\tproperty"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"al",
+				"align-center"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"margn",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"aling",
+				"align-items\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/ListContacts.js",
+			"settings":
+			{
+				"buffer_size": 667,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/frida/site/sass/estilos.scss",
+			"settings":
+			{
+				"buffer_size": 32549,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 851,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"SassBeautify",
+				"SassBeautify: Convert from SCSS to current type"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/frida/site/paginas.php",
+		"/C/wamp/www/frida/site/paginas/parasuaempresa.php",
+		"/C/wamp/www/frida/site/paginas/home.php",
+		"/C/wamp/www/frida/site/index.php",
+		"/C/wamp/www/frida/site/admin/adm_paginas.php",
+		"/C/wamp/www/frida/site/admin/paginas/produtos/lis_produto.php",
+		"/C/wamp/www/frida/site/admin/menu_adm.php",
+		"/C/wamp/www/frida/site/admin/paginas/produtos/cad_categoria.php",
+		"/C/wamp/www/frida/site/admin/paginas/paravoce/acoes.php",
+		"/C/wamp/www/frida/site/admin/paginas/produtos/acoes.php",
+		"/C/wamp/www/frida/site/admin/paginas/paravoce/lis_produto.php",
+		"/C/wamp/www/frida/site/admin/paginas/paravoce/cad_produto.php",
+		"/C/wamp/www/frida/site/admin/paginas/produtos/cad_produto.php",
+		"/C/wamp/www/react/contacts/src/App.js",
+		"/C/wamp/www/react/contacts/src/ListContacts.js",
+		"/C/wamp/www/react/contacts/src/index.css",
+		"/C/wamp/www/frida/site/paginas/produtos.php",
+		"/C/wamp/www/frida/site/sass/estilos.scss",
+		"/C/wamp/www/frida/site/paginas/flores_paravoce.php",
+		"/C/wamp/www/react/contacts/src/index.js",
+		"/C/wamp/www/react/contacts/public/index.html",
+		"/C/wamp/www/frida/site/paginas/as_fridas.php",
+		"/C/wamp/www/yat/site/index.php",
+		"/C/wamp/www/yat/site/sass/estilos.scss",
+		"/C/wamp/www/yat/site/paginas/acoes.php",
+		"/C/wamp/www/yat/site/paginas/home.php",
+		"/C/wamp/www/thisavros/site/sass/estilos.scss",
+		"/C/wamp/www/ozan/site/index.php",
+		"/C/wamp/www/yat/site/js/app.js",
+		"/C/wamp/www/yat/particles.js-master/particles.js-master/demo/css/style.css",
+		"/C/wamp/www/yat/site/js/stats.js",
+		"/C/wamp/www/yat/particles.js-master/particles.js-master/demo/index.html",
+		"/C/wamp/www/thisavros/site/paginas/home.php",
+		"/C/wamp/www/artkasa/site/contact.php",
+		"/C/wamp/www/artkasa/site/about.html",
+		"/C/wamp/www/artkasa/site/apply.html",
+		"/C/wamp/www/artkasa/site/index.html",
+		"/C/wamp/www/artkasa/site/wallpapers-naturals.html",
+		"/C/wamp/www/artkasa/site/wallpapers-urban.html",
+		"/C/wamp/www/artkasa/site/home.php",
+		"/C/wamp/www/artkasa/site/home.htm",
+		"/C/wamp/www/frida/site/admin/config.php",
+		"/C/wamp/www/yat/site/paginas.php",
+		"/C/wamp/www/yat/site/js/funcoes.js",
+		"/C/wamp/www/directlog/paginas/areas.php",
+		"/C/wamp/www/directlog/paginas/home.php",
+		"/C/wamp/www/ookkayclub/paginas/home.php",
+		"/C/wamp/www/yat/prov/index.php",
+		"/C/wamp/www/yat/site/gulpfile.js",
+		"/C/wamp/www/bvcontabilidade/site/novo/paginas/envia.php",
+		"/C/wamp/www/classificados/admin/funcaoform.php",
+		"/C/wamp/www/classificados/admin/paginas/anuncios/acoes.php",
+		"/C/wamp/www/classificados/paginas/anuncio.php",
+		"/C/wamp/www/classificados/admin/paginas/anuncios/cad_anuncios.php",
+		"/C/wamp/www/classificados/admin/js/funcoes.js",
+		"/C/wamp/www/altavista_novo/paginas/portal/cadastro_banner.php",
+		"/C/wamp/www/altavista_novo/paginas/portal/acoes.php",
+		"/C/wamp/www/sitenovo/model.php",
+		"/C/wamp/www/sitenovo/index.php",
+		"/C/wamp/www/sitenovo/paginas/home.php",
+		"/C/wamp/www/sitenovo/paginas/empreendimento.php",
+		"/C/wamp/www/sitenovo/js/funcoes_site.js",
+		"/C/wamp/www/sitenovo/sass/estilos.scss",
+		"/C/wamp/www/classificados/paginas/empreendimento.php",
+		"/C/wamp/www/classificados/paginas/google_mapas.php",
+		"/C/wamp/www/classificados/sass/estilos.scss",
+		"/C/wamp/www/classificados/model.php",
+		"/C/wamp/www/classificados/paginas/buscaCategorias.php",
+		"/C/wamp/www/classificados/admin/paginas/anuncios/cad_categoria.php",
+		"/C/wamp/www/bvcontabilidade/site/novo/paginas/form_calculo-cartao-ponto.php",
+		"/C/wamp/www/bvcontabilidade/site/novo/paginas/form_cartao-ponto.php",
+		"/C/wamp/www/bvcontabilidade/site/novo/paginas/form_calculo-cartao-ponto_BKP.php",
+		"/C/wamp/www/classificados/paginas/acoes.php",
+		"/C/wamp/www/classificados/index.php",
+		"/C/wamp/www/classificados/paginas.php",
+		"/C/wamp/www/classificados/paginas/busca.php",
+		"/C/wamp/www/classificados/paginas/classificados.php",
+		"/C/wamp/www/classificados/js/funcoes_site.js",
+		"/C/wamp/www/classificados/admin/paginas/usuarios/acoes.php",
+		"/C/wamp/www/classificados/.htaccess",
+		"/C/wamp/www/classificados/admin/paginas/usuarios/login.php",
+		"/C/wamp/www/bvcontabilidade/site/novo/paginas/form_admissao.php",
+		"/C/wamp/www/altavista_novo/funcaoform.php",
+		"/C/wamp/www/bvcontabilidade/site/novo/paginas/upload.php",
+		"/C/wamp/www/bvcontabilidade/site/novo/admin/funcaoform.php",
+		"/C/wamp/www/bvcontabilidade/site/bvcontabilidade2/paginas/upload.php",
+		"/C/wamp/www/bvcontabilidade/site/novo/paginas/form_calculo-de-hora-extra.php",
+		"/C/wamp/www/ozan/site/paginas/acoes.php",
+		"/C/wamp/www/ozan/site/.htaccess",
+		"/C/wamp/www/ozan/.htaccess",
+		"/C/wamp/www/nostramamma/.htaccess",
+		"/C/wamp/www/classificados/admin/menu_adm.php",
+		"/C/wamp/www/classificados/admin/adm_paginas.php",
+		"/C/wamp/www/classificados/paginas/home.php",
+		"/C/wamp/www/classificados/converteurl.php",
+		"/C/wamp/www/classificados/paginas/verifica.php",
+		"/C/wamp/www/classificados/paginas/cadastro.php",
+		"/C/wamp/www/classificados/paginas/carrega_eventos.php",
+		"/C/wamp/www/classificados/paginas/eventos.php",
+		"/C/wamp/www/classificados/paginas/buscaCidades.php",
+		"/C/wamp/www/classificados/paginas/anuncios_pagos.php",
+		"/C/wamp/www/classificados/paginas/login.php",
+		"/C/wamp/www/classificados/paginas/index.php",
+		"/C/wamp/www/classificados/paginas/funcoes.js",
+		"/C/wamp/www/sitenovo/paginas.php",
+		"/C/wamp/www/sitenovo/paginas/acoes.php",
+		"/C/wamp/www/altavista_novo/paginas/requisicoes/acoes_requisicao.php",
+		"/C/wamp/www/altavista_novo/paginas/portal/cadastro_empree.php",
+		"/C/wamp/www/thisavros/site/index.php",
+		"/C/wamp/www/winners/site/index.php",
+		"/C/wamp/www/okkay/site/paginas/home.php",
+		"/C/wamp/www/altavista/backup_30_09_2014/sistema/funcaoform.php",
+		"/C/wamp/www/bvcontabilidade/site/novo/assets/css/corporate-classic.css",
+		"/C/wamp/www/classificados/admin/paginas/anuncios/lis_anuncios.php",
+		"/C/wamp/www/classificados/admin/paginas/representantes/acoes.php",
+		"/C/wamp/www/classificados/admin/paginas/representantes/lis_representantes.php",
+		"/C/wamp/www/classificados/admin/paginas/representantes/cadastra_representante.php",
+		"/C/wamp/www/classificados/paginas/buscaOnde.php",
+		"/C/wamp/www/classificados/paginas/categorias.php",
+		"/C/wamp/www/classificados/admin/index.php",
+		"/C/wamp/www/classificados/admin/config.php",
+		"/C/wamp/www/american/paginas/hoteis_pesquisa_ajax.php",
+		"/C/wamp/www/american/paginas/home.php",
+		"/C/wamp/www/novamata/site/index.php",
+		"/C/wamp/www/okkay2/site/paginas/home.php",
+		"/C/wamp/www/1000expert/paginas/home.php",
+		"/C/wamp/www/ozan/site/js/webflow.js",
+		"/C/wamp/www/directlog/js/funcoes_site.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dropdow",
+			"box_para",
+			"addprodform",
+			"coluna_produtos",
+			"secao_produtos",
+			"publi_produto",
+			"produtos",
+			"campomsg",
+			"fridas",
+			"secao_produtos",
+			"fridas",
+			"contato",
+			"fridas",
+			"http:",
+			"fridas{",
+			"inputbox",
+			"fridas",
+			"foto_trading",
+			"grafico",
+			"fundo",
+			"header",
+			"coluna",
+			"box",
+			"header",
+			"miss",
+			"fundo",
+			"dundo",
+			"coluna",
+			"subtitulo",
+			"foto_trading",
+			"060300",
+			"menu_ativo",
+			"header{",
+			"line{",
+			"line",
+			"header",
+			"subtitulo",
+			"header",
+			"foto_trading",
+			"grafico",
+			"secao_conteudo",
+			"menuprincipal",
+			"header",
+			"footer",
+			"fundo{",
+			"fundo",
+			"grafico",
+			"foto_trading",
+			"trading",
+			"box2",
+			"fundo",
+			"box",
+			"box{",
+			"secao_conteudo",
+			"secao_banner",
+			"logobanner",
+			"setabaixo",
+			"header",
+			"btn_envia",
+			"logobanner",
+			"setabaixo",
+			"logobanner",
+			"banner",
+			"logo",
+			"banner",
+			"particles-js",
+			"lista_destaque",
+			"porqueinvestir",
+			"BOX{",
+			"BOX",
+			"porque-investir",
+			"contato{",
+			"enviaremail",
+			"banner",
+			"logo",
+			"icone",
+			"margemextra",
+			"secao_conteudo",
+			"menu{",
+			"<i class=\"fas fa-check\"></i> ",
+			"banners",
+			"box",
+			"secao_conteudo",
+			"banner_home",
+			"body",
+			"fridas",
+			"contato",
+			"produtos",
+			"\u0003",
+			"lista_flores",
+			"secao_maisqueridos",
+			"texto_intro",
+			" margin-left: 101px;",
+			" position: absolute; ",
+			"conteudo",
+			"conte",
+			"logo",
+			"footer",
+			"banner_home",
+			"secao_banner",
+			"header",
+			"secao_banner",
+			"secao_conteudo",
+			"box{",
+			"box",
+			"header",
+			"break;",
+			"$h",
+			"mhora",
+			"banner_home",
+			"banner_empreendimento",
+			"secao_home_lancamentos",
+			"banner_home",
+			"secao_contatos",
+			"banner_empreendimento",
+			"secao_galeria",
+			"banner/",
+			"secao_home_lancamentos",
+			"banner_home",
+			"chamada",
+			"video",
+			"calcextra",
+			"$bg",
+			"cartaoponto",
+			"$anuncio",
+			"formclassificados",
+			" style=\"width: 50%;\"",
+			"mini_banner_pagos"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"paravoce",
+			"https:",
+			"&bull; ",
+			" ",
+			"",
+			"@$h",
+			"banners/",
+			"$reg",
+			"",
+			"https:",
+			"imagens/",
+			"entrada_2",
+			"saida_1",
+			"entrada_2",
+			"saida_1",
+			"#822928",
+			"#oleo-de-salomao",
+			"#home",
+			"",
+			"wp-status",
+			"wp-post_name",
+			"wp-post_date",
+			"content-encoded",
+			"wp-status",
+			"wp-post_name",
+			"wp-post_date",
+			"dc-creator",
+			"content-encoded",
+			"",
+			"$reg['id_usuario']",
+			"",
+			"mysqli_",
+			"mysqli_query($conexao,",
+			"idanun",
+			"anuncios",
+			"foto_anuncios-cond",
+			"banner-cond",
+			"foto_anuncios",
+			"",
+			"822928",
+			"h4",
+			"$status",
+			"banner-string",
+			"#000",
+			"$reg[\"fotos\"]",
+			"sitenovo",
+			"id-cond-cond",
+			"envie-sua-confissao",
+			"confessionario",
+			"CONFESSIONARIO",
+			"#822928",
+			"solicitacoes",
+			"formularios/",
+			"mysql_",
+			"",
+			"mysql_",
+			"fontgiob",
+			"fontgiom",
+			"fontgiol",
+			"../fonts/",
+			"\"hidden\"",
+			"",
+			"form-control verso-shadow-0 verso-shadow-focus-2 verso-transition",
+			"",
+			"form-control verso-shadow-0 verso-shadow-focus-2 verso-transition",
+			"",
+			"value=\"\" placeholder=\"0,00\"",
+			"",
+			"form-control verso-shadow-0 verso-shadow-focus-2 verso-transition verso-mb-3",
+			"<div class=\"col-md-6\"> ",
+			"</div>",
+			"<div class=\"row\">",
+			"form-control verso-shadow-0 verso-shadow-focus-2 verso-transition verso-mb-3",
+			"",
+			"<div class=\"col-md-12\">",
+			"</div>",
+			"<div class=\"col-md-6\">",
+			"</div>",
+			"<div class=\"row\">",
+			"",
+			"form-control verso-shadow-0 verso-shadow-focus-2 verso-transition verso-mb-3",
+			"<div class=\"col-md-12\">",
+			"<div class=\"col-md-6\">",
+			"</div>",
+			"<div class=\"row\">",
+			"",
+			"form-control verso-shadow-0 verso-shadow-focus-2 verso-transition verso-mb-3",
+			"</div>",
+			"<div class=\"col-md-6\">",
+			"</div>",
+			"<div class=\"row\">",
+			"executa($conexao, ",
+			"mysqli_",
+			"mysqli_query($conexao, ",
+			"mysqli_query($conexao, $sql)",
+			"$conexao2 = @mssql_connect(\"SQL5039.site4now.net\",\"DB_A140B2_bv_admin\",\"JackBruno1298\") or die(\"Não foi possível a conexão com o servidor!\");\n@mssql_select_db(\"DB_A140B2_bv\", $conexao2) or die(\"Não foi possível selecionar o banco de dados!\");"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/ListContacts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								601,
+								601
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/frida/site/sass/estilos.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32113,
+								32113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 27001.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								455,
+								455
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.510248901903,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "React Contacts.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
